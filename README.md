@@ -3,6 +3,20 @@
 ## Overview
 A Full Stack Store Rating Platform built using React, Node.js, Express.js and MySQL.
 
+
+## Test Credentials
+
+### Admin Login
+Email: admin@gmail.com
+Password: admin123
+
+### Owner Login
+Email: owner@gmail.com
+Password: owner123
+
+### User Login
+Email: user@gmail.com
+Password: user123
 ## Features
 
 - User Authentication
