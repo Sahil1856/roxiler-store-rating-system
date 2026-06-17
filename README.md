@@ -11,12 +11,11 @@ Email: admin@gmail.com
 Password: admin123
 
 ### Owner Login
-Email: owner@gmail.com
+Email: owner1@gmail.com
 Password: owner123
 
 ### User Login
-Email: user@gmail.com
-Password: user123
+signup and login
 ## Features
 
 - User Authentication
